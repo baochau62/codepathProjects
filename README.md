@@ -20,8 +20,8 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/2kgPz' title='Video Walkthrough of Tip Calculator' width='' alt='Video Walkthrough of Tip Calculator' />
-![alt tag](http://imgur.com/a/2kgPz)
+<img src='http://imgur.com/a/2kgPz.gif' title='Video Walkthrough of Tip Calculator' width='' alt='Video Walkthrough of Tip Calculator' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
